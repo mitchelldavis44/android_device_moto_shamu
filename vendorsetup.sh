@@ -15,4 +15,4 @@
 #
 
 add_lunch_combo aosp_shamu-userdebug
-add_lunch_combo eos_shamu-userdebug
+add_lunch_combo platinum_shamu-userdebug
